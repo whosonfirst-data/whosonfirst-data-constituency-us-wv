@@ -9,7 +9,7 @@
     "geom:bbox":"-81.9152,37.967209,-81.23142,38.495034",
     "geom:latitude":38.266364,
     "geom:longitude":-81.501271,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1551687459.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 17",
     "uscensus:sldust":"017",
     "uscensus:statefp":"54",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688589
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488659,
     "wof:geomhash":"6120aaee5d25e0a3b0c262ba750a56b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688589
+        }
+    ],
     "wof:id":1108776139,
     "wof:lastmodified":1481488659,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688589,
     "wof:repo":"whosonfirst-data-constituency-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

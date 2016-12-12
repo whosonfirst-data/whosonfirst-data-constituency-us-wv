@@ -9,7 +9,7 @@
     "geom:bbox":"-80.20248,39.23825,-79.88171,39.536587",
     "geom:latitude":39.362479,
     "geom:longitude":-80.026686,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":537326510.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 49",
     "uscensus:sldlst":"049",
     "uscensus:statefp":"54",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688589
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488639,
     "wof:geomhash":"e9a5460f691fabb45c9d04d246e9ce41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688589
+        }
+    ],
     "wof:id":1108776061,
     "wof:lastmodified":1481488639,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688589,
     "wof:repo":"whosonfirst-data-constituency-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

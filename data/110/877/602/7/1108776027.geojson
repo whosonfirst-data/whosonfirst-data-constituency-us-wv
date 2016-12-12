@@ -9,7 +9,7 @@
     "geom:bbox":"-81.03168,38.507045,-80.44209,38.986289",
     "geom:latitude":38.729265,
     "geom:longitude":-80.72565,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1553409005.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 34",
     "uscensus:sldlst":"034",
     "uscensus:statefp":"54",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688589
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488634,
     "wof:geomhash":"370ff44d9a05e2bbec6277d105e5c322",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688589
+        }
+    ],
     "wof:id":1108776027,
     "wof:lastmodified":1481488634,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688589,
     "wof:repo":"whosonfirst-data-constituency-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-82.19727,37.64061,-81.51423,38.068501",
     "geom:latitude":37.836004,
     "geom:longitude":-81.873568,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1300506697.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 24",
     "uscensus:sldlst":"024",
     "uscensus:statefp":"54",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688589
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488630,
     "wof:geomhash":"410c1f75e99b2d57ea114604cac4e7f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688589
+        }
+    ],
     "wof:id":1108776005,
     "wof:lastmodified":1481488630,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688589,
     "wof:repo":"whosonfirst-data-constituency-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

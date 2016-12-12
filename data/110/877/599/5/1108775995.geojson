@@ -9,7 +9,7 @@
     "geom:bbox":"-82.42069,37.625037,-81.99903,37.974778",
     "geom:latitude":37.810614,
     "geom:longitude":-82.221252,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":695161778.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 20",
     "uscensus:sldlst":"020",
     "uscensus:statefp":"54",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688589
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488629,
     "wof:geomhash":"63bc16d3ceca459d0da555f2e5867171",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688589
+        }
+    ],
     "wof:id":1108775995,
     "wof:lastmodified":1481488629,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688589,
     "wof:repo":"whosonfirst-data-constituency-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

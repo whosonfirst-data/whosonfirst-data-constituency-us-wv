@@ -9,7 +9,7 @@
     "geom:bbox":"-78.06246,39.42029,-77.94214,39.485979",
     "geom:latitude":39.453332,
     "geom:longitude":-78.002504,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":33399044.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 61",
     "uscensus:sldlst":"061",
     "uscensus:statefp":"54",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688589
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488643,
     "wof:geomhash":"e30a2a88e7c83fe737a83783a56fc961",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688589
+        }
+    ],
     "wof:id":1108776089,
     "wof:lastmodified":1481488643,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688589,
     "wof:repo":"whosonfirst-data-constituency-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
